@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Wintermute Profanity key compromise — one block before attack
+fork_block_number = 15572528
